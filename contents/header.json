@@ -1,0 +1,17 @@
+{
+    "title": "Bunga Putri",
+    "description":
+      "If the plan doesn't work, change the plan but never the goal.",
+    "social": {
+      "ig": {
+        "url": "https://instagram.com/ptbungaa",
+        "title": "Bunga Putri"
+      },
+      "yt": {
+        "url": "https://www.youtube.com/channel/UCp3Rh-J3924A1gMpI96pdzg",
+        "title": "Bunga Putri"
+      }
+    },
+    "imageProfile":
+      "https://raw.githubusercontent.com/bungaputri/Vue-Axios-Basic/master/images/1.jpg"
+  }
