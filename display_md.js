@@ -13,7 +13,7 @@ Vue.createApp({
         var converter = new showdown.Converter();
         axios
           .get(
-            "https://raw.githubusercontent.com/bungaaaputri/Vue-Axios-Basic/master/contents/"+article
+            "https://raw.githubusercontent.com/bungaaaputri/tekweb2022/master/contents/"+article
           )
           .then((res) => {
             var html = converter.makeHtml(res.data);           
