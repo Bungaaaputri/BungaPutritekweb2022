@@ -1,0 +1,26 @@
+[
+    {
+        "judul": "Artikel 1 ni yaa",
+        "penulis": "Bunga Putri Tatwo",
+        "tanggal": "12-Oktober-2022",
+        "desc": "It's always good to bring a slower friend with you on a hike. If you happen to come across bears, the whole group doesn't have to worry.",
+        "gambar": "https://images.unsplash.com/photo-1535837487710-a191373a20ae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGFlc3RoZXRpY3xlbnwwfHwwfHw%3D&w=1000&q=80",
+        "bacaan": "bacaan_1.md"
+    },
+    {
+        "judul": "Artikel 2 Buat sendiri",
+        "penulis": "Bunga Putri Tatwo",
+        "tanggal": "1-Desember-2022",
+        "desc": "He swung back the fishing pole and cast the line which ell 25 feet away into the river. The lure landed in the perfect spot and he was sure he would soon get a bite.",
+        "gambar": "https://i.pinimg.com/236x/ce/8a/db/ce8adbd04f5767d15d7504cc73ba5fbd.jpg",
+        "bacaan": "bacaan_2.md"
+    },
+    {
+        "judul": "Artikel 2 Beda Lagi",
+        "penulis": "Bunga Putri Tatwo",
+        "tanggal": "5-Januari-2022",
+        "desc": "Things aren't going well at all with mom today. She is just a limp noodle and wants to sleep all the time. I sure hope that things get better soon.",
+        "gambar": "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8YWVzdGhldGljfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+        "bacaan": "bacaan_3.md"
+    }
+]
