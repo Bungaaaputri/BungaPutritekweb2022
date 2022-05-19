@@ -120,7 +120,7 @@ Vue.createApp({
             var converter = new showdown.Converter();
             axios
                 .get(
-                    src="./artikel/"+bacain
+                    src="../artikel/"+bacain
                 )
                 .then((res) => {
                     var html = converter.makeHtml(res.data);
