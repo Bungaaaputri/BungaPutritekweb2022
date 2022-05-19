@@ -19,6 +19,10 @@
   font-weight: normal;
   font-style: normal;
 }
+.btn {
+  border-radius: 0;
+  background-color: wheat;
+}
 /*---------------------------------------------------------
  1. Reset
 -------------------------------------------------------- */
