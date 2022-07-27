@@ -7,6 +7,7 @@
 
 [pergi Ke artikel Asli](google.com)
 
+
 <!-- Random text, Belum diganti -->
 Seiring berjalannya waktu, teknologi mengalami perkembangan yang sangat pesat, tak terkecuali teknologi website. Agar perkembangan teknologi web semakin baik, seorang programer dituntut untuk menerapkan teknologi terbaru pada apa yang dirancangnya.
 
