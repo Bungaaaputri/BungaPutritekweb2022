@@ -1,4 +1,4 @@
-> Teknologi Web
+# Teknologi Web
 
 ### Penulis : Bunga Putri Tatwo
 ### Tanggal : 12-September-2022
@@ -23,12 +23,4 @@ Ada banyak hal yang berubah dalam dunia IT termasuk teknologi bagi para programe
 4. Blogging Platform
 5. Desain Grafis for Developer
 
-#### Android Studio
-Android Studio adalah next step dalam pemrograman Android. Jika anda masih cinta dengan Eclipse, tinggalkan secara bertahap dan konversi semua proyek eclipse ke Android Studio. Android studio menawarkan berbagai fitur yang tidak ada di Eclipse. Selain itu tampilan UI Designernya juga sangat mudah di pakai, fitur build gradlenya juga canggih tanpa harus meletakan library jar ke folder lib dan segudag fitur lainnya.
-
-#### PHP Modern Programing
-
-![sumber : pixsabay.com](https://www.puskomedia.id/blog/wp-content/uploads/2018/12/programming-583923_640.jpg)
-
-Sejak PHP populer di Indonesia sekitar tahun 2000-an, sudah ada puluhan dan mungkin ratusan buku yang mengajarkan tentag PHP yang polanya hampir sama yaitu Coding dengan gaya struktural dan menggunakan fungsi clasik MySQL (mysql_query ($sql) or die (“You FOOL!”).
 
