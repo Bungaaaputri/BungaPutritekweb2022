@@ -316,3 +316,50 @@ response:
 true    // if success
 false   // if failure
 ```
+
+## Desain database
+
+Berikut adalah desain database untuk API yang akan digunakan
+
+```mermaid
+classDiagram
+    class user{
+        # id: int
+        + avatar: string
+        + nama: string
+        + nama_lengkap: string
+        + desc: string
+        + desc_side: string
+        + foto_about: string
+        + desc_about: string
+        + getAllUser()
+        + getUserById()
+        + createUser()
+        + updateUser()
+        + deleteUser()
+    }
+    class skill{
+        # id: int
+        + keterampilan: string
+        + level: string
+        + getAllSkill()
+        + getSkillById()
+        + createSkill()
+        + updateSkill()
+        + deleteSkill()
+    }
+    class article{
+        # id: int
+        + title: string
+        + author: string
+        + date: string
+        + desc: string
+        + gambar: string
+        + go_read: string
+        + getAllArticle()
+        + getArticleById()
+        + createArticle()
+        + updateArticle()
+        + deleteArticle()
+    }
+```
