@@ -1,17 +1,33 @@
-# Judul artikel 2
+# HTML & HTML5
 
 ---
 
 ### Penulis : Bunga Putri Tatwo
 ### Tanggal : 6-September-2022
+### Source  : https://www.jagoanhosting.com/blog/
 
 [pergi Ke artikel Asli](google.com)
 
 <!-- Random text, Belum diganti -->
-He swung back the fishing pole and cast the line which ell 25 feet away into the river. The lure landed in the perfect spot and he was sure he would soon get a bite. He never expected that the bite would come from behind in the form of a bear.
-Debbie had taken George for granted for more than fifteen years now. He wasn't sure what exactly had made him choose this time and place to address the issue, but he decided that now was the time. He looked straight into her eyes and just as she was about to speak, turned away and walked out the door.
-It really doesn't matter what she thinks as it isn't her problem to solve. That's what he kept trying to convince himself. She was trying to insert her opinion where it wasn't wanted or welcome. He already had a plan and even though that plan didn't correspond with what she wanted him to do or what should be done, it wasn't her decision to make. The question now became whether he would stick to his convictions and go through with his plan knowing she wouldn't approve.
-He had disappointed himself more than anyone else. That wasn't to say that he hadn't disappointed others. The fact was that he had disappointed a lot of people who were close to him. The fact that they were disappointed in him was something that made him even more disappointed in himself. Yet here he was, about to do the exact same things that had caused all the disappointment in the first place because he didn't know what else to do.
-It was their first date and she had been looking forward to it the entire week. She had her eyes on him for months, and it had taken a convoluted scheme with several friends to make it happen, but he'd finally taken the hint and asked her out. After all the time and effort she'd invested into it, she never thought that it would be anything but wonderful. It goes without saying that things didn't work out quite as she expected.
-Her hand was balled into a fist with her keys protruding out from between her fingers. This was the weapon her father had shown her how to make when she walked alone to her car after work. She wished that she had something a little more potent than keys between her fingers. It would have been nice to have some mace or pepper spray. He had been meaning to buy some but had never gotten around to it. As the mother bear took another step forward with her cubs in tow, she knew her fist with keys wasn't going to be an adequate defense for this situation.
-"It was so great to hear from you today and it was such weird timing," he said. "This is going to sound funny and a little strange, but you were in a dream I had just a couple of days ago. I'd love to get together and tell you about it if you're up for a cup of coffee," he continued, laying the trap he'd been planning for years.
+Kalian mungkin sudah sering mendengar istilah HTML, tapi bagaimana dengan sebutan HTML5? Jika HTML adalah bahasa markup, lantas apa itu HTML5? Sederhananya, HTML5 adalah HTML versi kelima. Jadi, HTML5 adalah hasil perbaikan dari bahasa markup versi sebelumnya. Di sini, HTML telah mendapat pembaruan berupa tambahan fitur demi mendukung aktivitas pengembangan website yang lebih baik dan canggih, seperti menciptakan website bersifat mobile friendly. Nah untuk lebih lengkapnya, yuk baca artikel berikut sampai habis! 
+
+#### Apa itu HTML5
+Bisa dikatakan HTML adalah bahasa utama dunia website. Pada umumnya, halaman web yang berada di internet ditulis dengan variasi HTML. Melalui HTML, developer bisa menambahkan multimedia, text tan link tampil menjadi satu dengan elemen lainnya di browser. Selain itu, hypertext hingga elemen yang membuat dokumen interaktif merupakan kesatuan dari HTML.
+Standar dalam HTML diciptakan pada tahun 1997 oleh W3C atau World Wide Web Consortium. Pada HTML, tag digunakan sebagai penentu struktur, tag dan elemen didefinisikan dengan menggunakan < dan > . Beberapa contohnya adalah table, paragraf, header, footer, aside, list, dan masih banyak lainnya. Tag-tag inilah nantinya yang dirender oleh browser. 
+HTML pertama yang dirilis pada tahun 1991 oleh Tim Berners-Lee sudah mengalami banyak pembaruan sejak saat itu. Yup, HTML5 adalah versi HTML terbaru saat ini. Hadirnya HTML5 menjadikannya sebagai primadona bahasa markup dan telah memiliki banyak fitur dibandingkan HTML biasa serta menghilangkan beberapa hal yang bisa dibilang ‘kaku’ pada XHTML.
+
+#### Perbedaan HTML dan HTML5
+Di dunia IT, perubahan menjadi satu hal yang tak terelakkan. Hingga saat ini tidak ada bahasa yang tidak pernah di upgrade. Begitupun dengan HTML yang mengupgrade versinya menjadi HTML5. 
+
+Tujuan HTML5 adalah untuk mengikuti perkembangan teknologi informasi dan meningkatkan dukungan terhadap struktur bahasa yang digunakan dalam file multimedia modern. Tak berhenti di situ saja, tujuan HTML5 adalah meningkatkan pengalaman berinternet bagi pengembang dan pengguna. 
+
+Sudah disinggung di penjelasan sebelumnya bahwa HTML5 adalah bahasa markup yang memiliki jauh lebih banyak manfaat utama dibanding dengan versi terdahulunya. Salah satunya yakni memiliki dukungan audio dan video tingkat tinggi.
+
+Untuk lebih lengkapnya, Jagoan Hosting telah meringkas perbedaan HTML dan HTML5 secara detail di bawah ini.
+- HTML5 mendukung SVG, canvas, dan grafis vektor virtual lainnya, tidak seperti HTML. Yang dimana pada HTML, penggunaan grafis vektor hanya bisa dilakukan dengan bantuan teknologi lain seperti VML, Silverlight, dan Flash.
+- HTML5 mampu menjalankan JavaScript di browser, sedangkan HTML hanya memungkinkan JavaScript berjalan di thread antarmuka web browser.
+- MathML dan SVG bisa kamu gunakan di HTML5. 
+- HTML5 mendukung form control yang baru, seperti, tanggal dan waktu, nomor, range, url, search, dan email. 
+- HTML5 menggunakan database SQL web untuk menyimpan cache sementara, tidak seperti HTML yang hanya bisa memanfaatkan cache browser.
+- Beberapa elemen HTML seperti isindex, noframes, acronym, font, basefont, applet, dir, frame, center, strike, big, dan tt. 
+- HTML5 memiliki beberapa elemen baru yang cukup penting, seperti summary, time, aside, audio, command, data, datalist, dan lainnya. 
